@@ -4,7 +4,6 @@
   "description": "This is Food Application...",
   "scripts": {
     "start": "npx parcel src/index.html",
-    "build": "parcel build src/index.html",
     "test": "jest"
   },
   "author": "Prem R Mahajan",
